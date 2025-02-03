@@ -1,4 +1,4 @@
-# Currency-Converter API
+# Currency-Converter Application 
 
 ## Description
 
