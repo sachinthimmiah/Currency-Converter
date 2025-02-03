@@ -5,9 +5,9 @@
 ### Spring Boot application provides endpoints for fetching exchange rates and converting amounts from one currency to another currency using open exchange rates api
 
 ## Prerequisites 
-## - JDK 11 or higher
-## - Maven or Gradle (for dependency management and building)
-## - Open Exchange Rates API key
+ - JDK 11 or higher
+ - Maven or Gradle (for dependency management and building)
+ - Open Exchange Rates API key
 
 ## Setup
 
